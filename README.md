@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bevan-pearson
+- 👀 I’m interested in ecosystems ecology, sustainable agriculture, climate science
+- 🌱 I’m currently learning how to apply my geospatial analysis expertise in the agriculture sector
+- 🏢 I work on agriculture input analytics with McKinsey's ACRE team in Denver
+- 📫 How to reach me: bevan_pearson@mckinsey.com
